@@ -1,3 +1,0 @@
-testignore.txt
-probando.txt
-nosubir.txt
